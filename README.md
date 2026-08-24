@@ -1,11 +1,11 @@
 # Coding Practice
 
-A problem a day (best effort). Each problem gets its own folder under `problems/`,
-numbered in the order I did them, with the solution plus a short writeup of the
-approach in the file header.
+A problem a day (best effort). Each problem is one file under `problems/`,
+named `YYYY-MM-DD-problem-name.py`, with the approach and writeup in the
+file header.
 
 ## Log
 
-| # | Problem | Difficulty | Date |
-|---|---------|------------|------|
-| 01 | [Dutch National Flag](problems/01-dutch-national-flag/solution.py) | Medium | 2026-08-24 |
+| Date | Problem | Difficulty |
+|------|---------|------------|
+| 2026-08-24 | [Dutch National Flag](problems/2026-08-24-dutch-national-flag.py) | Medium |
