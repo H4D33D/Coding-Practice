@@ -9,3 +9,4 @@ file header.
 | Date | Problem | Difficulty |
 |------|---------|------------|
 | 2026-08-24 | [Dutch National Flag](problems/2026-08-24-dutch-national-flag.py) | Medium |
+| 2026-08-25 | [Length Of Last Word](problems/2026-08-25-length-of-last-word.py) | Easy |
