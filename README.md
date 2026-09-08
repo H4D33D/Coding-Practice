@@ -10,7 +10,7 @@ file header.
 |------|---------|------------|
 | 2026-08-24 | [Dutch National Flag](problems/2026-08-24-dutch-national-flag.py) | Medium |
 | 2026-08-25 | [Length Of Last Word](problems/2026-08-25-length-of-last-word.py) | Easy |
-| 2026-09-08 | [String Word Replacement] | Easy |
-| 2026-09-09 | [Adjacent String Transformation] | Medium |
-| 2026-09-10 | [Color Number] | Medium |
-| 2026-09-11 | [GoldBach Structure] | Medium |
+| 2026-09-08 | String Word Replacement | Easy |
+| 2026-09-09 | Adjacent String Transformation | Medium |
+| 2026-09-10 | Color Number | Medium |
+| 2026-09-11 | GoldBach Structure | Medium |
